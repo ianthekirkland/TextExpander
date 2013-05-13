@@ -15,7 +15,7 @@
 	<key>Backup Path</key>
 	<string>~/Dropbox/TextExpander</string>
 	<key>Characters Saved</key>
-	<integer>20098</integer>
+	<integer>21799</integer>
 	<key>Client Mode</key>
 	<integer>0</integer>
 	<key>Cross Platform Images</key>
@@ -39,7 +39,7 @@
 	<key>ShareSnippetsEnabled</key>
 	<true/>
 	<key>Snippet Count</key>
-	<integer>763</integer>
+	<integer>821</integer>
 	<key>Snippet Menu Item Width</key>
 	<integer>370</integer>
 	<key>Snippets Imported</key>
@@ -303,6 +303,17 @@
 					<key>startSnippetCount</key>
 					<integer>734</integer>
 				</dict>
+				<key>2013-05-10</key>
+				<dict>
+					<key>endCharactersSaved</key>
+					<integer>21799</integer>
+					<key>endSnippetCount</key>
+					<integer>821</integer>
+					<key>startCharactersSaved</key>
+					<integer>20098</integer>
+					<key>startSnippetCount</key>
+					<integer>763</integer>
+				</dict>
 			</dict>
 		</dict>
 	</dict>
@@ -380,10 +391,6 @@
 			<array>
 				<string>8DBFA981-D60D-46F2-AF5E-9C1F90D73091</string>
 				<string>C0B80541-3C05-42EF-977A-FEF5AFD89A8C</string>
-				<string>28CFFBFB-3224-4068-9DFB-73B242EFEEAA</string>
-				<string>CE101F5A-C5CC-43C0-B75D-81F13AC134B1</string>
-				<string>12944DFF-31EB-4B62-818E-8C95AA329BAF</string>
-				<string>00FC5940-38B1-41E6-A92E-F0C4D3811D77</string>
 				<string>F7124F93-0B72-4696-8A2E-E44DB879B49F</string>
 				<string>AE82F37D-D946-4F2C-A9D2-A1F7A953B937</string>
 				<string>19A04825-34B2-4514-91F3-E9C31ECE7ADC</string>
@@ -568,8 +575,16 @@
 			<string>Date Stamps</string>
 			<key>snippetUUIDs</key>
 			<array>
+				<string>28CFFBFB-3224-4068-9DFB-73B242EFEEAA</string>
+				<string>CE101F5A-C5CC-43C0-B75D-81F13AC134B1</string>
+				<string>12944DFF-31EB-4B62-818E-8C95AA329BAF</string>
+				<string>00FC5940-38B1-41E6-A92E-F0C4D3811D77</string>
 				<string>761C13C2-C82C-42AE-9D2E-9357FD767933</string>
 				<string>CE8FBDD6-3C7C-4BD3-A600-13495424DE25</string>
+				<string>3D6113F8-52F9-4DE3-A513-E2D623542875</string>
+				<string>A2F1798E-75C1-453E-A07D-24A9D8D6F6DC</string>
+				<string>04C643A1-8735-45CA-B106-ADB0575FA2C0</string>
+				<string>D2F807BF-37D9-421A-BF4F-C269080F519B</string>
 				<string>335CB2A0-AF93-4628-A769-39E7BBE42DAE</string>
 				<string>EED4B8D7-BD46-43E8-B661-7CFE784266BC</string>
 				<string>244C0C44-F647-4562-8AD0-236497CA93EC</string>
@@ -578,18 +593,14 @@
 				<string>F082A94F-902A-4838-9143-F52CF12D67E7</string>
 				<string>0FD47291-E6AC-4082-9FAE-B6F88489828C</string>
 				<string>8AF1829A-5CE8-4F69-BEC0-F889E4909633</string>
-				<string>236E6DF4-ACC3-4988-B1A5-A5D52D9C7657</string>
 				<string>07FF0300-70B7-4368-973F-3142AD7DC3BE</string>
+				<string>18B47D62-9562-4BCA-BD4F-E01CFD421A74</string>
 				<string>AD7D85B5-36AE-4B19-8AFF-393F05C91D9D</string>
 				<string>B6B1B873-7225-45ED-A4F5-7B5E578D1D05</string>
 				<string>393F2104-A7D0-4EE0-8D17-E45F2D864F68</string>
 				<string>AD494748-B1AF-49F6-B547-ED5F87010F4D</string>
 				<string>7D7DC523-BDBE-4E7D-83F2-825CCBC3FFEA</string>
 				<string>40CB78C0-46DC-4767-90DF-3CBE8F2D4FBC</string>
-				<string>9C8ABA75-2FE9-4E7D-9E5C-25195863FDB4</string>
-				<string>C37ACBB0-8063-43DC-AB48-8BF01A044621</string>
-				<string>60704480-96FC-43E6-A67F-290F3F35CDD2</string>
-				<string>27741CA4-7CDD-4885-A61C-5B1969804AAA</string>
 			</array>
 			<key>suggestAbbreviations</key>
 			<integer>1</integer>
@@ -604,9 +615,7 @@
 	<key>groupsToDeleteDuringSync</key>
 	<array/>
 	<key>outlineState</key>
-	<array>
-		<string>62B08CBA-5BDC-47EB-BDCF-78EEC3F7E954</string>
-	</array>
+	<array/>
 	<key>snippetsTE2</key>
 	<array>
 		<dict>
@@ -620,6 +629,8 @@
 			<integer>0</integer>
 			<key>label</key>
 			<string>Stata: forvalues</string>
+			<key>lastUsed</key>
+			<date>2013-05-10T02:15:39Z</date>
 			<key>modificationDate</key>
 			<date>2013-05-10T02:15:18Z</date>
 			<key>plainText</key>
@@ -629,7 +640,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>uuidString</key>
 			<string>91B20469-7284-4D7F-BC01-C662C860D980</string>
 		</dict>
@@ -655,7 +666,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>0</integer>
+			<integer>4</integer>
 			<key>uuidString</key>
 			<string>F4D63396-E97C-4AD5-99C8-7BB088E03131</string>
 		</dict>
@@ -705,7 +716,7 @@ exit</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>1</integer>
+			<integer>2</integer>
 			<key>uuidString</key>
 			<string>AE486C2D-A73A-4FC9-8404-807363F39BE0</string>
 		</dict>
@@ -721,7 +732,7 @@ exit</string>
 			<key>label</key>
 			<string>name time sensitive files</string>
 			<key>lastUsed</key>
-			<date>2013-05-06T22:03:41Z</date>
+			<date>2013-05-11T04:43:01Z</date>
 			<key>modificationDate</key>
 			<date>2013-05-06T15:38:26Z</date>
 			<key>plainText</key>
@@ -729,7 +740,7 @@ exit</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>79</integer>
+			<integer>87</integer>
 			<key>uuidString</key>
 			<string>6CA97F05-92F7-4871-8DA6-AA7CE5644759</string>
 		</dict>
@@ -753,7 +764,7 @@ exit</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>25</integer>
+			<integer>26</integer>
 			<key>uuidString</key>
 			<string>13299072-A800-42D6-91A4-903F4CD05CE3</string>
 		</dict>
@@ -777,7 +788,7 @@ exit</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>0</integer>
+			<integer>5</integer>
 			<key>uuidString</key>
 			<string>8DBFA981-D60D-46F2-AF5E-9C1F90D73091</string>
 		</dict>
@@ -816,102 +827,6 @@ exit</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>.ttime</string>
-			<key>abbreviationMode</key>
-			<integer>0</integer>
-			<key>creationDate</key>
-			<date>2012-01-11T23:30:56Z</date>
-			<key>flags</key>
-			<integer>0</integer>
-			<key>label</key>
-			<string>Current time</string>
-			<key>lastUsed</key>
-			<date>2013-04-06T18:20:17Z</date>
-			<key>modificationDate</key>
-			<date>2013-03-30T22:47:01Z</date>
-			<key>plainText</key>
-			<string>%1I:%M %p</string>
-			<key>snippetType</key>
-			<integer>0</integer>
-			<key>useCount</key>
-			<integer>4</integer>
-			<key>uuidString</key>
-			<string>28CFFBFB-3224-4068-9DFB-73B242EFEEAA</string>
-		</dict>
-		<dict>
-			<key>abbreviation</key>
-			<string>.dsw</string>
-			<key>abbreviationMode</key>
-			<integer>0</integer>
-			<key>creationDate</key>
-			<date>2012-01-11T23:30:56Z</date>
-			<key>flags</key>
-			<integer>0</integer>
-			<key>label</key>
-			<string>data stamp - word</string>
-			<key>lastUsed</key>
-			<date>2013-04-07T18:07:04Z</date>
-			<key>modificationDate</key>
-			<date>2013-04-06T23:30:33Z</date>
-			<key>plainText</key>
-			<string>%B %e, %Y</string>
-			<key>snippetType</key>
-			<integer>0</integer>
-			<key>useCount</key>
-			<integer>9</integer>
-			<key>uuidString</key>
-			<string>CE101F5A-C5CC-43C0-B75D-81F13AC134B1</string>
-		</dict>
-		<dict>
-			<key>abbreviation</key>
-			<string>.dsd</string>
-			<key>abbreviationMode</key>
-			<integer>0</integer>
-			<key>creationDate</key>
-			<date>2012-01-11T23:30:56Z</date>
-			<key>flags</key>
-			<integer>0</integer>
-			<key>label</key>
-			<string>date stamp - day</string>
-			<key>lastUsed</key>
-			<date>2013-05-08T05:27:41Z</date>
-			<key>modificationDate</key>
-			<date>2013-04-06T23:30:53Z</date>
-			<key>plainText</key>
-			<string>%Y-%m-%d</string>
-			<key>snippetType</key>
-			<integer>0</integer>
-			<key>useCount</key>
-			<integer>117</integer>
-			<key>uuidString</key>
-			<string>12944DFF-31EB-4B62-818E-8C95AA329BAF</string>
-		</dict>
-		<dict>
-			<key>abbreviation</key>
-			<string>.dm</string>
-			<key>abbreviationMode</key>
-			<integer>0</integer>
-			<key>creationDate</key>
-			<date>2012-03-18T19:12:42Z</date>
-			<key>flags</key>
-			<integer>0</integer>
-			<key>label</key>
-			<string>date stamp - month</string>
-			<key>lastUsed</key>
-			<date>2012-07-17T05:53:54Z</date>
-			<key>modificationDate</key>
-			<date>2012-03-18T19:13:09Z</date>
-			<key>plainText</key>
-			<string>%Y-%m - </string>
-			<key>snippetType</key>
-			<integer>0</integer>
-			<key>useCount</key>
-			<integer>10</integer>
-			<key>uuidString</key>
-			<string>00FC5940-38B1-41E6-A92E-F0C4D3811D77</string>
-		</dict>
-		<dict>
-			<key>abbreviation</key>
 			<string>sig1</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
@@ -947,7 +862,7 @@ Paul</string>
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2013-05-09T20:41:48Z</date>
+			<date>2013-05-10T05:14:05Z</date>
 			<key>modificationDate</key>
 			<date>2013-02-04T19:21:05Z</date>
 			<key>plainText</key>
@@ -955,7 +870,7 @@ Paul</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>89</integer>
+			<integer>98</integer>
 			<key>uuidString</key>
 			<string>AE82F37D-D946-4F2C-A9D2-A1F7A953B937</string>
 		</dict>
@@ -1125,7 +1040,7 @@ United States</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>6</integer>
+			<integer>8</integer>
 			<key>uuidString</key>
 			<string>1EF3883A-4CB9-4588-A4C4-E6E8B585E738</string>
 		</dict>
@@ -1173,7 +1088,7 @@ United States</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>12</integer>
+			<integer>13</integer>
 			<key>uuidString</key>
 			<string>EE75D298-C472-4625-AC98-8EB5C2B85E63</string>
 		</dict>
@@ -1221,7 +1136,7 @@ United States</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>2</integer>
+			<integer>3</integer>
 			<key>uuidString</key>
 			<string>210B9EE2-B4A7-499E-B67D-B415ACE1162E</string>
 		</dict>
@@ -1499,9 +1414,9 @@ United States</string>
 			<key>lastUsed</key>
 			<date>2013-04-13T21:39:07Z</date>
 			<key>modificationDate</key>
-			<date>2013-04-24T07:33:47Z</date>
+			<date>2013-05-10T18:25:40Z</date>
 			<key>plainText</key>
-			<string>%Y-%m - bank_statements - amex blue cash everyday statement</string>
+			<string>%Y-%m - bank_statements - amex blue cash everyday</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1523,9 +1438,9 @@ United States</string>
 			<key>lastUsed</key>
 			<date>2013-04-10T17:00:40Z</date>
 			<key>modificationDate</key>
-			<date>2013-04-24T07:34:05Z</date>
+			<date>2013-05-10T18:25:44Z</date>
 			<key>plainText</key>
-			<string>%Y-%m - bank_statements - amex bluebird statement</string>
+			<string>%Y-%m - bank_statements - amex bluebird</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1547,9 +1462,9 @@ United States</string>
 			<key>lastUsed</key>
 			<date>2013-04-06T03:11:26Z</date>
 			<key>modificationDate</key>
-			<date>2013-04-24T07:34:12Z</date>
+			<date>2013-05-10T18:25:47Z</date>
 			<key>plainText</key>
-			<string>%Y-%m - bank_statements - amex delta skymiles statement</string>
+			<string>%Y-%m - bank_statements - amex delta skymiles</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1571,9 +1486,9 @@ United States</string>
 			<key>lastUsed</key>
 			<date>2013-04-20T04:06:26Z</date>
 			<key>modificationDate</key>
-			<date>2013-04-24T07:34:18Z</date>
+			<date>2013-05-10T18:25:51Z</date>
 			<key>plainText</key>
-			<string>%Y-%m - bank_statements - amex premier rewards statement</string>
+			<string>%Y-%m - bank_statements - amex premier rewards</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1595,9 +1510,9 @@ United States</string>
 			<key>lastUsed</key>
 			<date>2013-04-10T17:20:38Z</date>
 			<key>modificationDate</key>
-			<date>2013-04-24T07:34:24Z</date>
+			<date>2013-05-10T18:25:54Z</date>
 			<key>plainText</key>
-			<string>%Y-%m - bank_statements - chase freedom statement</string>
+			<string>%Y-%m - bank_statements - chase freedom</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1619,9 +1534,9 @@ United States</string>
 			<key>lastUsed</key>
 			<date>2013-04-17T07:56:51Z</date>
 			<key>modificationDate</key>
-			<date>2013-04-24T07:34:30Z</date>
+			<date>2013-05-10T18:25:57Z</date>
 			<key>plainText</key>
-			<string>%Y-%m - bank_statements - chase sapphire preferred statement</string>
+			<string>%Y-%m - bank_statements - chase sapphire preferred</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1643,9 +1558,9 @@ United States</string>
 			<key>lastUsed</key>
 			<date>2013-04-12T17:07:37Z</date>
 			<key>modificationDate</key>
-			<date>2013-04-24T07:34:35Z</date>
+			<date>2013-05-10T18:26:01Z</date>
 			<key>plainText</key>
-			<string>%Y-%m - bank_statements - citibank checking statement</string>
+			<string>%Y-%m - bank_statements - citibank checking</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1667,9 +1582,9 @@ United States</string>
 			<key>lastUsed</key>
 			<date>2013-04-06T03:18:43Z</date>
 			<key>modificationDate</key>
-			<date>2013-04-24T07:34:42Z</date>
+			<date>2013-05-10T18:26:07Z</date>
 			<key>plainText</key>
-			<string>%Y-%m - bank_statements - citibank forward statement</string>
+			<string>%Y-%m - bank_statements - citibank forward</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1691,9 +1606,9 @@ United States</string>
 			<key>lastUsed</key>
 			<date>2013-04-12T17:16:21Z</date>
 			<key>modificationDate</key>
-			<date>2013-04-24T07:34:50Z</date>
+			<date>2013-05-10T18:26:11Z</date>
 			<key>plainText</key>
-			<string>%Y-%m - bank_statements - citibank savings statement</string>
+			<string>%Y-%m - bank_statements - citibank savings</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1715,9 +1630,9 @@ United States</string>
 			<key>lastUsed</key>
 			<date>2013-04-25T07:37:04Z</date>
 			<key>modificationDate</key>
-			<date>2013-04-24T07:34:59Z</date>
+			<date>2013-05-10T18:26:14Z</date>
 			<key>plainText</key>
-			<string>%Y-%m - bank_statements - citibank thankyou preferred statement</string>
+			<string>%Y-%m - bank_statements - citibank thankyou preferred</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -1739,9 +1654,9 @@ United States</string>
 			<key>lastUsed</key>
 			<date>2013-04-24T06:47:00Z</date>
 			<key>modificationDate</key>
-			<date>2013-04-24T07:35:05Z</date>
+			<date>2013-05-10T18:26:17Z</date>
 			<key>plainText</key>
-			<string>%Y-%m - bank_statements - discover more statement</string>
+			<string>%Y-%m - bank_statements - discover more</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -2650,6 +2565,102 @@ Rating: %fillpopup:name=Book Rating:★☆☆☆☆:★★☆☆☆:default=★�
 		</dict>
 		<dict>
 			<key>abbreviation</key>
+			<string>.ttime</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-01-11T23:30:56Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Current time</string>
+			<key>lastUsed</key>
+			<date>2013-04-06T18:20:17Z</date>
+			<key>modificationDate</key>
+			<date>2013-03-30T22:47:01Z</date>
+			<key>plainText</key>
+			<string>%1I:%M %p</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>28CFFBFB-3224-4068-9DFB-73B242EFEEAA</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>.dsw</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-01-11T23:30:56Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>data stamp - word</string>
+			<key>lastUsed</key>
+			<date>2013-04-07T18:07:04Z</date>
+			<key>modificationDate</key>
+			<date>2013-04-06T23:30:33Z</date>
+			<key>plainText</key>
+			<string>%B %e, %Y</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>9</integer>
+			<key>uuidString</key>
+			<string>CE101F5A-C5CC-43C0-B75D-81F13AC134B1</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>.dsd</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-01-11T23:30:56Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>date stamp - day</string>
+			<key>lastUsed</key>
+			<date>2013-05-11T04:42:40Z</date>
+			<key>modificationDate</key>
+			<date>2013-04-06T23:30:53Z</date>
+			<key>plainText</key>
+			<string>%Y-%m-%d</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>130</integer>
+			<key>uuidString</key>
+			<string>12944DFF-31EB-4B62-818E-8C95AA329BAF</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>.dsm</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-03-18T19:12:42Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>date stamp - month</string>
+			<key>lastUsed</key>
+			<date>2012-07-17T05:53:54Z</date>
+			<key>modificationDate</key>
+			<date>2013-05-11T04:38:41Z</date>
+			<key>plainText</key>
+			<string>%Y-%m - </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>10</integer>
+			<key>uuidString</key>
+			<string>00FC5940-38B1-41E6-A92E-F0C4D3811D77</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
 			<string>xdnw</string>
 			<key>abbreviationMode</key>
 			<integer>1</integer>
@@ -2660,7 +2671,7 @@ Rating: %fillpopup:name=Book Rating:★☆☆☆☆:★★☆☆☆:default=★�
 			<key>label</key>
 			<string>Date Range This weeek</string>
 			<key>lastUsed</key>
-			<date>2013-05-08T20:34:38Z</date>
+			<date>2013-05-11T04:27:50Z</date>
 			<key>modificationDate</key>
 			<date>2013-05-08T20:35:01Z</date>
 			<key>plainText</key>
@@ -2677,13 +2688,13 @@ set theDate to (short date string of theStartDate) &amp; " - " &amp; (short date
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>3</integer>
+			<integer>4</integer>
 			<key>uuidString</key>
 			<string>761C13C2-C82C-42AE-9D2E-9357FD767933</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>xdnm</string>
+			<string>.dsnm</string>
 			<key>abbreviationMode</key>
 			<integer>1</integer>
 			<key>creationDate</key>
@@ -2693,9 +2704,9 @@ set theDate to (short date string of theStartDate) &amp; " - " &amp; (short date
 			<key>label</key>
 			<string>Next Monday</string>
 			<key>lastUsed</key>
-			<date>2013-05-08T20:35:41Z</date>
+			<date>2013-05-11T04:29:09Z</date>
 			<key>modificationDate</key>
-			<date>2013-05-08T20:36:01Z</date>
+			<date>2013-05-11T04:29:51Z</date>
 			<key>plainText</key>
 			<string>set theDate to (current date) + 1 * days
 repeat until weekday of theDate = Monday
@@ -2705,13 +2716,125 @@ set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (m
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>1</integer>
+			<integer>3</integer>
 			<key>uuidString</key>
 			<string>CE8FBDD6-3C7C-4BD3-A600-13495424DE25</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>xdns</string>
+			<string>.dsntu</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2013-04-14T00:36:07Z</date>
+			<key>flags</key>
+			<integer>1</integer>
+			<key>label</key>
+			<string>Next Tuesday</string>
+			<key>lastUsed</key>
+			<date>2013-05-11T04:29:09Z</date>
+			<key>modificationDate</key>
+			<date>2013-05-11T04:30:39Z</date>
+			<key>plainText</key>
+			<string>set theDate to (current date) + 1 * days
+repeat until weekday of theDate = Tuesday
+set theDate to theDate + 1 * days
+end repeat
+set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (month of theDate as integer))) &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (day of theDate as integer))) as string</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>1</integer>
+			<key>uuidString</key>
+			<string>3D6113F8-52F9-4DE3-A513-E2D623542875</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>.dsnw</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2013-04-14T00:36:07Z</date>
+			<key>flags</key>
+			<integer>1</integer>
+			<key>label</key>
+			<string>Next Wednesday</string>
+			<key>lastUsed</key>
+			<date>2013-05-11T04:29:09Z</date>
+			<key>modificationDate</key>
+			<date>2013-05-11T04:31:06Z</date>
+			<key>plainText</key>
+			<string>set theDate to (current date) + 1 * days
+repeat until weekday of theDate = Wednesday
+set theDate to theDate + 1 * days
+end repeat
+set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (month of theDate as integer))) &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (day of theDate as integer))) as string</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>1</integer>
+			<key>uuidString</key>
+			<string>A2F1798E-75C1-453E-A07D-24A9D8D6F6DC</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>.dsnth</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2013-04-14T00:36:07Z</date>
+			<key>flags</key>
+			<integer>1</integer>
+			<key>label</key>
+			<string>Next Thursday</string>
+			<key>lastUsed</key>
+			<date>2013-05-11T04:29:09Z</date>
+			<key>modificationDate</key>
+			<date>2013-05-11T04:31:27Z</date>
+			<key>plainText</key>
+			<string>set theDate to (current date) + 1 * days
+repeat until weekday of theDate = Thursday
+set theDate to theDate + 1 * days
+end repeat
+set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (month of theDate as integer))) &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (day of theDate as integer))) as string</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>1</integer>
+			<key>uuidString</key>
+			<string>04C643A1-8735-45CA-B106-ADB0575FA2C0</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>.dsnsu</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2013-04-14T00:36:07Z</date>
+			<key>flags</key>
+			<integer>1</integer>
+			<key>label</key>
+			<string>Next Sunday</string>
+			<key>lastUsed</key>
+			<date>2013-05-11T04:32:49Z</date>
+			<key>modificationDate</key>
+			<date>2013-05-11T04:32:15Z</date>
+			<key>plainText</key>
+			<string>set theDate to (current date) + 1 * days
+repeat until weekday of theDate = Sunday
+set theDate to theDate + 1 * days
+end repeat
+set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (month of theDate as integer))) &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (day of theDate as integer))) as string</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>2</integer>
+			<key>uuidString</key>
+			<string>D2F807BF-37D9-421A-BF4F-C269080F519B</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>.dsnsa</string>
 			<key>abbreviationMode</key>
 			<integer>1</integer>
 			<key>creationDate</key>
@@ -2721,9 +2844,9 @@ set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (m
 			<key>label</key>
 			<string>Next Saturday</string>
 			<key>lastUsed</key>
-			<date>2013-04-14T00:38:04Z</date>
+			<date>2013-05-11T04:25:57Z</date>
 			<key>modificationDate</key>
-			<date>2013-05-08T20:38:20Z</date>
+			<date>2013-05-11T04:32:23Z</date>
 			<key>plainText</key>
 			<string>set theDate to (current date) + 1 * days
 repeat until weekday of theDate = Saturday
@@ -2733,13 +2856,13 @@ set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (m
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>1</integer>
+			<integer>2</integer>
 			<key>uuidString</key>
 			<string>335CB2A0-AF93-4628-A769-39E7BBE42DAE</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>xdnf</string>
+			<string>.dsnf</string>
 			<key>abbreviationMode</key>
 			<integer>1</integer>
 			<key>creationDate</key>
@@ -2751,7 +2874,7 @@ set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (m
 			<key>lastUsed</key>
 			<date>2013-04-14T00:38:00Z</date>
 			<key>modificationDate</key>
-			<date>2013-05-08T20:38:12Z</date>
+			<date>2013-05-11T04:32:29Z</date>
 			<key>plainText</key>
 			<string>set theDate to (current date) + 1 * days
 repeat until weekday of theDate = Friday
@@ -2888,6 +3011,8 @@ set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (m
 			<integer>0</integer>
 			<key>label</key>
 			<string></string>
+			<key>lastUsed</key>
+			<date>2013-05-11T04:37:42Z</date>
 			<key>modificationDate</key>
 			<date>2013-04-14T00:23:16Z</date>
 			<key>plainText</key>
@@ -2895,33 +3020,9 @@ set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (m
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>uuidString</key>
 			<string>8AF1829A-5CE8-4F69-BEC0-F889E4909633</string>
-		</dict>
-		<dict>
-			<key>abbreviation</key>
-			<string>dm--</string>
-			<key>abbreviationMode</key>
-			<integer>1</integer>
-			<key>creationDate</key>
-			<date>2013-02-19T05:58:20Z</date>
-			<key>flags</key>
-			<integer>0</integer>
-			<key>label</key>
-			<string>1M old stamp</string>
-			<key>lastUsed</key>
-			<date>2013-04-14T00:12:34Z</date>
-			<key>modificationDate</key>
-			<date>2013-04-14T00:12:50Z</date>
-			<key>plainText</key>
-			<string>%@-1M%Y-%m</string>
-			<key>snippetType</key>
-			<integer>0</integer>
-			<key>useCount</key>
-			<integer>3</integer>
-			<key>uuidString</key>
-			<string>236E6DF4-ACC3-4988-B1A5-A5D52D9C7657</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -2935,7 +3036,7 @@ set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (m
 			<key>label</key>
 			<string>1 day ago</string>
 			<key>lastUsed</key>
-			<date>2013-05-08T20:32:59Z</date>
+			<date>2013-05-11T04:36:04Z</date>
 			<key>modificationDate</key>
 			<date>2013-04-14T00:10:23Z</date>
 			<key>plainText</key>
@@ -2943,9 +3044,33 @@ set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (m
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>3</integer>
+			<integer>4</integer>
 			<key>uuidString</key>
 			<string>07FF0300-70B7-4368-973F-3142AD7DC3BE</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>.d2--</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2013-02-19T05:58:20Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>2 days ago</string>
+			<key>lastUsed</key>
+			<date>2013-05-11T04:37:21Z</date>
+			<key>modificationDate</key>
+			<date>2013-05-11T04:37:11Z</date>
+			<key>plainText</key>
+			<string>%@-2D%Y-%m-%d</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>18B47D62-9562-4BCA-BD4F-E01CFD421A74</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -3078,102 +3203,6 @@ set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (m
 			<integer>0</integer>
 			<key>uuidString</key>
 			<string>40CB78C0-46DC-4767-90DF-3CBE8F2D4FBC</string>
-		</dict>
-		<dict>
-			<key>abbreviation</key>
-			<string>xdeu</string>
-			<key>abbreviationMode</key>
-			<integer>1</integer>
-			<key>creationDate</key>
-			<date>2013-04-13T23:13:08Z</date>
-			<key>flags</key>
-			<integer>0</integer>
-			<key>label</key>
-			<string></string>
-			<key>lastUsed</key>
-			<date>2013-04-14T00:15:56Z</date>
-			<key>modificationDate</key>
-			<date>2013-04-14T00:15:48Z</date>
-			<key>plainText</key>
-			<string>%e %B %Y</string>
-			<key>snippetType</key>
-			<integer>0</integer>
-			<key>useCount</key>
-			<integer>9</integer>
-			<key>uuidString</key>
-			<string>9C8ABA75-2FE9-4E7D-9E5C-25195863FDB4</string>
-		</dict>
-		<dict>
-			<key>abbreviation</key>
-			<string>xdts</string>
-			<key>abbreviationMode</key>
-			<integer>1</integer>
-			<key>creationDate</key>
-			<date>2012-03-18T19:13:21Z</date>
-			<key>flags</key>
-			<integer>0</integer>
-			<key>label</key>
-			<string>date time stamp</string>
-			<key>lastUsed</key>
-			<date>2013-05-03T20:48:06Z</date>
-			<key>modificationDate</key>
-			<date>2013-04-13T23:13:02Z</date>
-			<key>plainText</key>
-			<string>%Y-%m-%d %H.%M.%S</string>
-			<key>snippetType</key>
-			<integer>0</integer>
-			<key>useCount</key>
-			<integer>93</integer>
-			<key>uuidString</key>
-			<string>C37ACBB0-8063-43DC-AB48-8BF01A044621</string>
-		</dict>
-		<dict>
-			<key>abbreviation</key>
-			<string>.dts</string>
-			<key>abbreviationMode</key>
-			<integer>1</integer>
-			<key>creationDate</key>
-			<date>2012-03-18T19:13:21Z</date>
-			<key>flags</key>
-			<integer>0</integer>
-			<key>label</key>
-			<string>date time stamp</string>
-			<key>lastUsed</key>
-			<date>2013-04-22T17:26:18Z</date>
-			<key>modificationDate</key>
-			<date>2013-04-14T00:10:54Z</date>
-			<key>plainText</key>
-			<string>## %Y-%m-%d %H.%M.%S</string>
-			<key>snippetType</key>
-			<integer>0</integer>
-			<key>useCount</key>
-			<integer>95</integer>
-			<key>uuidString</key>
-			<string>60704480-96FC-43E6-A67F-290F3F35CDD2</string>
-		</dict>
-		<dict>
-			<key>abbreviation</key>
-			<string>xds</string>
-			<key>abbreviationMode</key>
-			<integer>1</integer>
-			<key>creationDate</key>
-			<date>2012-03-18T19:13:21Z</date>
-			<key>flags</key>
-			<integer>0</integer>
-			<key>label</key>
-			<string>date time stamp</string>
-			<key>lastUsed</key>
-			<date>2013-05-04T21:52:59Z</date>
-			<key>modificationDate</key>
-			<date>2013-04-13T23:12:54Z</date>
-			<key>plainText</key>
-			<string>%Y-%m-%d</string>
-			<key>snippetType</key>
-			<integer>0</integer>
-			<key>useCount</key>
-			<integer>107</integer>
-			<key>uuidString</key>
-			<string>27741CA4-7CDD-4885-A61C-5B1969804AAA</string>
 		</dict>
 	</array>
 	<key>snippetsToDeleteDuringSync</key>
