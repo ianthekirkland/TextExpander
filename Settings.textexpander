@@ -15,7 +15,7 @@
 	<key>Backup Path</key>
 	<string>~/Dropbox/TextExpander</string>
 	<key>Characters Saved</key>
-	<integer>24908</integer>
+	<integer>28530</integer>
 	<key>Client Mode</key>
 	<integer>0</integer>
 	<key>Cross Platform Images</key>
@@ -39,7 +39,7 @@
 	<key>ShareSnippetsEnabled</key>
 	<true/>
 	<key>Snippet Count</key>
-	<integer>866</integer>
+	<integer>910</integer>
 	<key>Snippet Menu Item Width</key>
 	<integer>370</integer>
 	<key>Snippets Imported</key>
@@ -324,6 +324,28 @@
 					<integer>21799</integer>
 					<key>startSnippetCount</key>
 					<integer>821</integer>
+				</dict>
+				<key>2013-05-21</key>
+				<dict>
+					<key>endCharactersSaved</key>
+					<integer>28364</integer>
+					<key>endSnippetCount</key>
+					<integer>903</integer>
+					<key>startCharactersSaved</key>
+					<integer>24908</integer>
+					<key>startSnippetCount</key>
+					<integer>866</integer>
+				</dict>
+				<key>2013-05-23</key>
+				<dict>
+					<key>endCharactersSaved</key>
+					<integer>28530</integer>
+					<key>endSnippetCount</key>
+					<integer>910</integer>
+					<key>startCharactersSaved</key>
+					<integer>28364</integer>
+					<key>startSnippetCount</key>
+					<integer>903</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -625,6 +647,33 @@
 			<key>writable</key>
 			<integer>1</integer>
 		</dict>
+		<dict>
+			<key>expandAfterMode</key>
+			<integer>0</integer>
+			<key>expanderExceptionsMode</key>
+			<integer>4</integer>
+			<key>name</key>
+			<string>OmniFocus</string>
+			<key>snippetUUIDs</key>
+			<array>
+				<string>4A2C7EDA-FEF3-482E-9DD2-D0C558DCB908</string>
+				<string>A4582B59-AD58-4D4C-9497-00B1764D1EDB</string>
+				<string>8F6701EA-BC2A-47EE-8805-B67AEDE849E4</string>
+				<string>681EC04F-A1D8-49BE-94BA-D5404078128A</string>
+				<string>71621962-C887-462F-9BDA-C851C04C3D75</string>
+				<string>C586DE4C-9A0B-4EB1-BBA5-185E01C6272F</string>
+				<string>91503D33-0C25-40DA-BF3C-6F5318FAA956</string>
+				<string>30B6991C-5ED4-4B7B-8F79-31904128BD1F</string>
+			</array>
+			<key>suggestAbbreviations</key>
+			<integer>1</integer>
+			<key>updateFrequency</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>E5E1B1D9-3C43-4252-8F21-EB489F705264</string>
+			<key>writable</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>groupsToDeleteDuringSync</key>
 	<array/>
@@ -658,7 +707,7 @@ end</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>0</integer>
+			<integer>4</integer>
 			<key>uuidString</key>
 			<string>F6002092-200D-4E44-90E6-79BFE6DC614D</string>
 		</dict>
@@ -707,7 +756,7 @@ end</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>6</integer>
+			<integer>8</integer>
 			<key>uuidString</key>
 			<string>26C83571-E07E-4EEB-89FD-FCD2A826AE1E</string>
 		</dict>
@@ -805,7 +854,7 @@ exit</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>4</integer>
+			<integer>8</integer>
 			<key>uuidString</key>
 			<string>AE486C2D-A73A-4FC9-8404-807363F39BE0</string>
 		</dict>
@@ -821,15 +870,15 @@ exit</string>
 			<key>label</key>
 			<string>name time sensitive files</string>
 			<key>lastUsed</key>
-			<date>2013-05-17T16:37:37Z</date>
+			<date>2013-05-24T21:38:09Z</date>
 			<key>modificationDate</key>
-			<date>2013-05-18T21:10:01Z</date>
+			<date>2013-05-24T22:01:07Z</date>
 			<key>plainText</key>
-			<string>%filltext:name=Date:width=15% - %fillpopup:name=TYPE:credit reports:default=receipts:checks:bills:coupons:retirement:bank_others:taxes_us:docs_finance:docs_academic:medical:invest:correspondences:contracts:immigration:plans% - %filltext:name=descriptions:width=30%</string>
+			<string>%filltext:name=Date:width=15% - %fillpopup:name=TYPE:credit reports:default=misc:receipts:checks:bills:coupons:retirement:bank_others:taxes_us:docs_finance:docs_academic:medical:invest:correspondences:contracts:immigration:plans% - %filltext:name=descriptions:width=30%</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>93</integer>
+			<integer>99</integer>
 			<key>uuidString</key>
 			<string>6CA97F05-92F7-4871-8DA6-AA7CE5644759</string>
 		</dict>
@@ -845,15 +894,15 @@ exit</string>
 			<key>label</key>
 			<string>name time insensitive files</string>
 			<key>lastUsed</key>
-			<date>2013-05-15T20:30:18Z</date>
+			<date>2013-05-23T20:05:09Z</date>
 			<key>modificationDate</key>
-			<date>2013-05-13T14:57:09Z</date>
+			<date>2013-05-24T22:01:16Z</date>
 			<key>plainText</key>
-			<string>%fillpopup:name=TYPE:notes_class:notes_talks:notes_papers:notes_books:notes_methods:notes_research:notes_ideas:notes_communications:logs_research:lists:manuals% - %filltext:name=descriptions:width=30% - %Y-%m-%d</string>
+			<string>%fillpopup:name=TYPE:misc:drafts:notes_class:notes_talks:notes_papers:notes_books:notes_methods:notes_research:notes_ideas:notes_communications:logs_research:lists:manuals% - %filltext:name=descriptions:width=30% - %Y-%m-%d</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>30</integer>
+			<integer>31</integer>
 			<key>uuidString</key>
 			<string>13299072-A800-42D6-91A4-903F4CD05CE3</string>
 		</dict>
@@ -869,7 +918,7 @@ exit</string>
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2013-05-18T20:54:18Z</date>
+			<date>2013-05-23T05:51:36Z</date>
 			<key>modificationDate</key>
 			<date>2013-05-05T22:39:52Z</date>
 			<key>plainText</key>
@@ -877,7 +926,7 @@ exit</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>6</integer>
+			<integer>12</integer>
 			<key>uuidString</key>
 			<string>8DBFA981-D60D-46F2-AF5E-9C1F90D73091</string>
 		</dict>
@@ -926,7 +975,7 @@ exit</string>
 			<key>label</key>
 			<string>Default signature</string>
 			<key>lastUsed</key>
-			<date>2013-04-06T21:57:35Z</date>
+			<date>2013-05-23T23:21:08Z</date>
 			<key>modificationDate</key>
 			<date>2013-04-06T21:58:12Z</date>
 			<key>plainText</key>
@@ -935,7 +984,7 @@ Paul</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>9</integer>
+			<integer>13</integer>
 			<key>uuidString</key>
 			<string>F7124F93-0B72-4696-8A2E-E44DB879B49F</string>
 		</dict>
@@ -951,7 +1000,7 @@ Paul</string>
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2013-05-17T03:49:47Z</date>
+			<date>2013-05-20T21:51:24Z</date>
 			<key>modificationDate</key>
 			<date>2013-02-04T19:21:05Z</date>
 			<key>plainText</key>
@@ -959,7 +1008,7 @@ Paul</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>110</integer>
+			<integer>112</integer>
 			<key>uuidString</key>
 			<string>AE82F37D-D946-4F2C-A9D2-A1F7A953B937</string>
 		</dict>
@@ -1025,7 +1074,7 @@ United States</string>
 			<key>label</key>
 			<string>Phone number</string>
 			<key>lastUsed</key>
-			<date>2013-05-18T20:54:14Z</date>
+			<date>2013-05-23T05:51:16Z</date>
 			<key>modificationDate</key>
 			<date>2013-02-04T19:21:52Z</date>
 			<key>plainText</key>
@@ -1033,7 +1082,7 @@ United States</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>29</integer>
+			<integer>32</integer>
 			<key>uuidString</key>
 			<string>4AEA8CB9-0360-4508-9DAB-EF22D91BB4C4</string>
 		</dict>
@@ -2712,7 +2761,7 @@ Rating: %fillpopup:name=Book Rating:★☆☆☆☆:★★☆☆☆:default=★�
 			<key>label</key>
 			<string>date stamp - day</string>
 			<key>lastUsed</key>
-			<date>2013-05-18T21:09:02Z</date>
+			<date>2013-05-24T22:00:32Z</date>
 			<key>modificationDate</key>
 			<date>2013-04-06T23:30:53Z</date>
 			<key>plainText</key>
@@ -2720,7 +2769,7 @@ Rating: %fillpopup:name=Book Rating:★☆☆☆☆:★★☆☆☆:default=★�
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>137</integer>
+			<integer>149</integer>
 			<key>uuidString</key>
 			<string>12944DFF-31EB-4B62-818E-8C95AA329BAF</string>
 		</dict>
@@ -3115,7 +3164,7 @@ set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (m
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>d--</string>
+			<string>.d--</string>
 			<key>abbreviationMode</key>
 			<integer>1</integer>
 			<key>creationDate</key>
@@ -3127,7 +3176,7 @@ set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (m
 			<key>lastUsed</key>
 			<date>2013-05-11T04:36:04Z</date>
 			<key>modificationDate</key>
-			<date>2013-04-14T00:10:23Z</date>
+			<date>2013-05-20T02:26:05Z</date>
 			<key>plainText</key>
 			<string>%@-1D%Y-%m-%d</string>
 			<key>snippetType</key>
@@ -3217,7 +3266,7 @@ set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (m
 			<key>label</key>
 			<string></string>
 			<key>modificationDate</key>
-			<date>2013-04-14T00:25:04Z</date>
+			<date>2013-05-20T02:26:28Z</date>
 			<key>plainText</key>
 			<string>October</string>
 			<key>snippetType</key>
@@ -3292,6 +3341,195 @@ set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (m
 			<integer>0</integer>
 			<key>uuidString</key>
 			<string>40CB78C0-46DC-4767-90DF-3CBE8F2D4FBC</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>.cho</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2011-11-05T18:35:03Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>OF Check out -- </string>
+			<key>lastUsed</key>
+			<date>2012-06-19T15:51:31Z</date>
+			<key>modificationDate</key>
+			<date>2012-09-16T18:58:25Z</date>
+			<key>plainText</key>
+			<string>Check out -- </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>36</integer>
+			<key>uuidString</key>
+			<string>4A2C7EDA-FEF3-482E-9DD2-D0C558DCB908</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>.cs</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2010-03-28T03:33:16Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>OF Complete Section on</string>
+			<key>lastUsed</key>
+			<date>2012-08-31T15:22:51Z</date>
+			<key>modificationDate</key>
+			<date>2012-02-02T04:30:56Z</date>
+			<key>plainText</key>
+			<string>Complete section on </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>7</integer>
+			<key>uuidString</key>
+			<string>A4582B59-AD58-4D4C-9497-00B1764D1EDB</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>.pp</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-02-02T04:26:42Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>OF Plan Project</string>
+			<key>modificationDate</key>
+			<date>2012-02-02T04:41:35Z</date>
+			<key>plainText</key>
+			<string>Plan new project to </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>8F6701EA-BC2A-47EE-8805-B67AEDE849E4</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>.pe</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2010-06-26T17:51:30Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>OF Process email</string>
+			<key>lastUsed</key>
+			<date>2012-07-27T17:24:03Z</date>
+			<key>modificationDate</key>
+			<date>2013-04-06T23:23:09Z</date>
+			<key>plainText</key>
+			<string>Process email concerning - </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>201</integer>
+			<key>uuidString</key>
+			<string>681EC04F-A1D8-49BE-94BA-D5404078128A</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>.rte</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2009-12-02T16:29:49Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>OF Respond to e-mail regarding</string>
+			<key>lastUsed</key>
+			<date>2012-09-10T17:17:19Z</date>
+			<key>modificationDate</key>
+			<date>2013-04-06T23:23:01Z</date>
+			<key>plainText</key>
+			<string>Respond to email regarding - </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>210</integer>
+			<key>uuidString</key>
+			<string>71621962-C887-462F-9BDA-C851C04C3D75</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>.smw</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-02-02T04:38:50Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>OF Set meeting</string>
+			<key>lastUsed</key>
+			<date>2013-04-15T22:00:34Z</date>
+			<key>modificationDate</key>
+			<date>2013-04-06T23:22:48Z</date>
+			<key>plainText</key>
+			<string>Set meeting with - </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>2</integer>
+			<key>uuidString</key>
+			<string>C586DE4C-9A0B-4EB1-BBA5-185E01C6272F</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>.wait</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-04-08T05:47:10Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-04-15T22:01:59Z</date>
+			<key>modificationDate</key>
+			<date>2013-04-06T23:23:22Z</date>
+			<key>plainText</key>
+			<string>Waiting For Response from - </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>2</integer>
+			<key>uuidString</key>
+			<string>91503D33-0C25-40DA-BF3C-6F5318FAA956</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>.dof</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-04-29T03:01:04Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>modificationDate</key>
+			<date>2013-04-29T03:03:41Z</date>
+			<key>plainText</key>
+			<string>#Inbox
+%|</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>30B6991C-5ED4-4B7B-8F79-31904128BD1F</string>
 		</dict>
 	</array>
 	<key>snippetsToDeleteDuringSync</key>
