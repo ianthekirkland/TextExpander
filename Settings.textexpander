@@ -15,7 +15,7 @@
 	<key>Backup Path</key>
 	<string>~/Dropbox/TextExpander</string>
 	<key>Characters Saved</key>
-	<integer>28530</integer>
+	<integer>29626</integer>
 	<key>Client Mode</key>
 	<integer>0</integer>
 	<key>Cross Platform Images</key>
@@ -29,9 +29,11 @@
 	<key>ExpandImmediately</key>
 	<true/>
 	<key>IgnoreCase</key>
-	<false/>
+	<true/>
 	<key>Last Version</key>
 	<string>4.0.5</string>
+	<key>PlaySound</key>
+	<false/>
 	<key>Remote Snippets</key>
 	<array/>
 	<key>Restore Pasteboard</key>
@@ -39,7 +41,7 @@
 	<key>ShareSnippetsEnabled</key>
 	<true/>
 	<key>Snippet Count</key>
-	<integer>910</integer>
+	<integer>961</integer>
 	<key>Snippet Menu Item Width</key>
 	<integer>370</integer>
 	<key>Snippets Imported</key>
@@ -346,6 +348,28 @@
 					<integer>28364</integer>
 					<key>startSnippetCount</key>
 					<integer>903</integer>
+				</dict>
+				<key>2013-06-01</key>
+				<dict>
+					<key>endCharactersSaved</key>
+					<integer>29626</integer>
+					<key>endSnippetCount</key>
+					<integer>961</integer>
+					<key>startCharactersSaved</key>
+					<integer>28530</integer>
+					<key>startSnippetCount</key>
+					<integer>910</integer>
+				</dict>
+				<key>2013-06-02</key>
+				<dict>
+					<key>endCharactersSaved</key>
+					<integer>29626</integer>
+					<key>endSnippetCount</key>
+					<integer>961</integer>
+					<key>startCharactersSaved</key>
+					<integer>29626</integer>
+					<key>startSnippetCount</key>
+					<integer>961</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -679,7 +703,7 @@
 	<array/>
 	<key>outlineState</key>
 	<array>
-		<string>62B08CBA-5BDC-47EB-BDCF-78EEC3F7E954</string>
+		<string>0EA7C738-0E5C-4349-B26C-D0878D4E5618</string>
 	</array>
 	<key>snippetsTE2</key>
 	<array>
@@ -870,7 +894,7 @@ exit</string>
 			<key>label</key>
 			<string>name time sensitive files</string>
 			<key>lastUsed</key>
-			<date>2013-05-24T21:38:09Z</date>
+			<date>2013-06-03T01:36:10Z</date>
 			<key>modificationDate</key>
 			<date>2013-05-24T22:01:07Z</date>
 			<key>plainText</key>
@@ -878,7 +902,7 @@ exit</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>99</integer>
+			<integer>104</integer>
 			<key>uuidString</key>
 			<string>6CA97F05-92F7-4871-8DA6-AA7CE5644759</string>
 		</dict>
@@ -894,15 +918,15 @@ exit</string>
 			<key>label</key>
 			<string>name time insensitive files</string>
 			<key>lastUsed</key>
-			<date>2013-05-23T20:05:09Z</date>
+			<date>2013-05-29T06:28:31Z</date>
 			<key>modificationDate</key>
-			<date>2013-05-24T22:01:16Z</date>
+			<date>2013-06-03T06:02:35Z</date>
 			<key>plainText</key>
-			<string>%fillpopup:name=TYPE:misc:drafts:notes_class:notes_talks:notes_papers:notes_books:notes_methods:notes_research:notes_ideas:notes_communications:logs_research:lists:manuals% - %filltext:name=descriptions:width=30% - %Y-%m-%d</string>
+			<string>%fillpopup:name=TYPE:misc:drafts:notes_class:notes_talks:notes_papers:notes_books:notes_methods:notes_research:notes_ideas:notes_communications:logs_research:lists:manuals% - %filltext:name=descriptions:width=30%</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>31</integer>
+			<integer>38</integer>
 			<key>uuidString</key>
 			<string>13299072-A800-42D6-91A4-903F4CD05CE3</string>
 		</dict>
@@ -918,7 +942,7 @@ exit</string>
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2013-05-23T05:51:36Z</date>
+			<date>2013-06-02T21:23:55Z</date>
 			<key>modificationDate</key>
 			<date>2013-05-05T22:39:52Z</date>
 			<key>plainText</key>
@@ -975,7 +999,7 @@ exit</string>
 			<key>label</key>
 			<string>Default signature</string>
 			<key>lastUsed</key>
-			<date>2013-05-23T23:21:08Z</date>
+			<date>2013-05-29T01:33:11Z</date>
 			<key>modificationDate</key>
 			<date>2013-04-06T21:58:12Z</date>
 			<key>plainText</key>
@@ -984,7 +1008,7 @@ Paul</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>13</integer>
+			<integer>16</integer>
 			<key>uuidString</key>
 			<string>F7124F93-0B72-4696-8A2E-E44DB879B49F</string>
 		</dict>
@@ -1000,7 +1024,7 @@ Paul</string>
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2013-05-20T21:51:24Z</date>
+			<date>2013-06-03T01:33:27Z</date>
 			<key>modificationDate</key>
 			<date>2013-02-04T19:21:05Z</date>
 			<key>plainText</key>
@@ -1008,7 +1032,7 @@ Paul</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>112</integer>
+			<integer>130</integer>
 			<key>uuidString</key>
 			<string>AE82F37D-D946-4F2C-A9D2-A1F7A953B937</string>
 		</dict>
@@ -1024,7 +1048,7 @@ Paul</string>
 			<key>label</key>
 			<string>Home address</string>
 			<key>lastUsed</key>
-			<date>2013-04-23T13:14:23Z</date>
+			<date>2013-05-25T03:58:27Z</date>
 			<key>modificationDate</key>
 			<date>2013-02-04T19:21:31Z</date>
 			<key>plainText</key>
@@ -1034,7 +1058,7 @@ United States</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>22</integer>
+			<integer>23</integer>
 			<key>uuidString</key>
 			<string>19A04825-34B2-4514-91F3-E9C31ECE7ADC</string>
 		</dict>
@@ -1050,7 +1074,7 @@ United States</string>
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2013-04-04T06:34:53Z</date>
+			<date>2013-05-30T22:19:09Z</date>
 			<key>modificationDate</key>
 			<date>2013-02-04T19:20:45Z</date>
 			<key>plainText</key>
@@ -1058,7 +1082,7 @@ United States</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>12</integer>
+			<integer>14</integer>
 			<key>uuidString</key>
 			<string>428F4D2B-F45D-4F1D-A90B-6D3B688E02E9</string>
 		</dict>
@@ -1074,7 +1098,7 @@ United States</string>
 			<key>label</key>
 			<string>Phone number</string>
 			<key>lastUsed</key>
-			<date>2013-05-23T05:51:16Z</date>
+			<date>2013-06-01T18:55:05Z</date>
 			<key>modificationDate</key>
 			<date>2013-02-04T19:21:52Z</date>
 			<key>plainText</key>
@@ -1082,7 +1106,7 @@ United States</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>32</integer>
+			<integer>34</integer>
 			<key>uuidString</key>
 			<string>4AEA8CB9-0360-4508-9DAB-EF22D91BB4C4</string>
 		</dict>
@@ -1122,7 +1146,7 @@ United States</string>
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2013-05-03T17:35:27Z</date>
+			<date>2013-05-27T03:10:13Z</date>
 			<key>modificationDate</key>
 			<date>2013-03-14T01:43:09Z</date>
 			<key>plainText</key>
@@ -1130,7 +1154,7 @@ United States</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>13</integer>
+			<integer>14</integer>
 			<key>uuidString</key>
 			<string>43CBEAEC-5EA4-4B4C-BADE-1D5FCD7E9FF1</string>
 		</dict>
@@ -1170,7 +1194,7 @@ United States</string>
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2013-05-10T00:33:49Z</date>
+			<date>2013-06-01T04:00:22Z</date>
 			<key>modificationDate</key>
 			<date>2013-04-06T21:57:56Z</date>
 			<key>plainText</key>
@@ -1178,7 +1202,7 @@ United States</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>8</integer>
+			<integer>13</integer>
 			<key>uuidString</key>
 			<string>1EF3883A-4CB9-4588-A4C4-E6E8B585E738</string>
 		</dict>
@@ -1194,7 +1218,7 @@ United States</string>
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2013-04-27T22:41:38Z</date>
+			<date>2013-06-02T17:38:29Z</date>
 			<key>modificationDate</key>
 			<date>2013-02-04T19:21:05Z</date>
 			<key>plainText</key>
@@ -2761,7 +2785,7 @@ Rating: %fillpopup:name=Book Rating:★☆☆☆☆:★★☆☆☆:default=★�
 			<key>label</key>
 			<string>date stamp - day</string>
 			<key>lastUsed</key>
-			<date>2013-05-24T22:00:32Z</date>
+			<date>2013-06-03T01:35:46Z</date>
 			<key>modificationDate</key>
 			<date>2013-04-06T23:30:53Z</date>
 			<key>plainText</key>
@@ -2769,7 +2793,7 @@ Rating: %fillpopup:name=Book Rating:★☆☆☆☆:★★☆☆☆:default=★�
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>149</integer>
+			<integer>156</integer>
 			<key>uuidString</key>
 			<string>12944DFF-31EB-4B62-818E-8C95AA329BAF</string>
 		</dict>
@@ -2824,7 +2848,7 @@ set theEndDate to theEndDate + 1 * days
 end repeat
 set theDate to (short date string of theStartDate) &amp; " - " &amp; (short date string of theEndDate)</string>
 			<key>snippetType</key>
-			<integer>0</integer>
+			<integer>2</integer>
 			<key>useCount</key>
 			<integer>4</integer>
 			<key>uuidString</key>
@@ -2852,7 +2876,7 @@ set theDate to theDate + 1 * days
 end repeat
 set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (month of theDate as integer))) &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (day of theDate as integer))) as string</string>
 			<key>snippetType</key>
-			<integer>0</integer>
+			<integer>2</integer>
 			<key>useCount</key>
 			<integer>4</integer>
 			<key>uuidString</key>
@@ -2880,7 +2904,7 @@ set theDate to theDate + 1 * days
 end repeat
 set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (month of theDate as integer))) &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (day of theDate as integer))) as string</string>
 			<key>snippetType</key>
-			<integer>0</integer>
+			<integer>2</integer>
 			<key>useCount</key>
 			<integer>1</integer>
 			<key>uuidString</key>
@@ -2908,7 +2932,7 @@ set theDate to theDate + 1 * days
 end repeat
 set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (month of theDate as integer))) &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (day of theDate as integer))) as string</string>
 			<key>snippetType</key>
-			<integer>0</integer>
+			<integer>2</integer>
 			<key>useCount</key>
 			<integer>1</integer>
 			<key>uuidString</key>
@@ -2936,7 +2960,7 @@ set theDate to theDate + 1 * days
 end repeat
 set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (month of theDate as integer))) &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (day of theDate as integer))) as string</string>
 			<key>snippetType</key>
-			<integer>0</integer>
+			<integer>2</integer>
 			<key>useCount</key>
 			<integer>1</integer>
 			<key>uuidString</key>
@@ -2964,7 +2988,7 @@ set theDate to theDate + 1 * days
 end repeat
 set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (month of theDate as integer))) &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (day of theDate as integer))) as string</string>
 			<key>snippetType</key>
-			<integer>0</integer>
+			<integer>2</integer>
 			<key>useCount</key>
 			<integer>2</integer>
 			<key>uuidString</key>
@@ -2992,7 +3016,7 @@ set theDate to theDate + 1 * days
 end repeat
 set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (month of theDate as integer))) &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (day of theDate as integer))) as string</string>
 			<key>snippetType</key>
-			<integer>0</integer>
+			<integer>2</integer>
 			<key>useCount</key>
 			<integer>2</integer>
 			<key>uuidString</key>
@@ -3020,7 +3044,7 @@ set theDate to theDate + 1 * days
 end repeat
 set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (month of theDate as integer))) &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (day of theDate as integer))) as string</string>
 			<key>snippetType</key>
-			<integer>0</integer>
+			<integer>2</integer>
 			<key>useCount</key>
 			<integer>1</integer>
 			<key>uuidString</key>
