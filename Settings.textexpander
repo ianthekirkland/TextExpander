@@ -15,7 +15,7 @@
 	<key>Backup Path</key>
 	<string>~/Dropbox/TextExpander</string>
 	<key>Characters Saved</key>
-	<integer>29626</integer>
+	<integer>30484</integer>
 	<key>Client Mode</key>
 	<integer>0</integer>
 	<key>Cross Platform Images</key>
@@ -41,7 +41,7 @@
 	<key>ShareSnippetsEnabled</key>
 	<true/>
 	<key>Snippet Count</key>
-	<integer>961</integer>
+	<integer>1026</integer>
 	<key>Snippet Menu Item Width</key>
 	<integer>370</integer>
 	<key>Snippets Imported</key>
@@ -371,6 +371,50 @@
 					<key>startSnippetCount</key>
 					<integer>961</integer>
 				</dict>
+				<key>2013-06-04</key>
+				<dict>
+					<key>endCharactersSaved</key>
+					<integer>29945</integer>
+					<key>endSnippetCount</key>
+					<integer>984</integer>
+					<key>startCharactersSaved</key>
+					<integer>29626</integer>
+					<key>startSnippetCount</key>
+					<integer>961</integer>
+				</dict>
+				<key>2013-06-08</key>
+				<dict>
+					<key>endCharactersSaved</key>
+					<integer>30144</integer>
+					<key>endSnippetCount</key>
+					<integer>1006</integer>
+					<key>startCharactersSaved</key>
+					<integer>29945</integer>
+					<key>startSnippetCount</key>
+					<integer>984</integer>
+				</dict>
+				<key>2013-06-12</key>
+				<dict>
+					<key>endCharactersSaved</key>
+					<integer>30455</integer>
+					<key>endSnippetCount</key>
+					<integer>1023</integer>
+					<key>startCharactersSaved</key>
+					<integer>30144</integer>
+					<key>startSnippetCount</key>
+					<integer>1006</integer>
+				</dict>
+				<key>2013-06-14</key>
+				<dict>
+					<key>endCharactersSaved</key>
+					<integer>30484</integer>
+					<key>endSnippetCount</key>
+					<integer>1026</integer>
+					<key>startCharactersSaved</key>
+					<integer>30455</integer>
+					<key>startSnippetCount</key>
+					<integer>1023</integer>
+				</dict>
 			</dict>
 		</dict>
 	</dict>
@@ -449,6 +493,7 @@
 			<string>My Snippets</string>
 			<key>snippetUUIDs</key>
 			<array>
+				<string>3C5DA85A-7D2E-4358-882A-3E0DD5C22A1C</string>
 				<string>8DBFA981-D60D-46F2-AF5E-9C1F90D73091</string>
 				<string>C0B80541-3C05-42EF-977A-FEF5AFD89A8C</string>
 				<string>F7124F93-0B72-4696-8A2E-E44DB879B49F</string>
@@ -704,6 +749,8 @@
 	<key>outlineState</key>
 	<array>
 		<string>0EA7C738-0E5C-4349-B26C-D0878D4E5618</string>
+		<string>69FA62B9-6712-4DC2-86D5-9D8CA3E85E2D</string>
+		<string>E5E1B1D9-3C43-4252-8F21-EB489F705264</string>
 	</array>
 	<key>snippetsTE2</key>
 	<array>
@@ -894,7 +941,7 @@ exit</string>
 			<key>label</key>
 			<string>name time sensitive files</string>
 			<key>lastUsed</key>
-			<date>2013-06-03T01:36:10Z</date>
+			<date>2013-06-14T06:14:58Z</date>
 			<key>modificationDate</key>
 			<date>2013-05-24T22:01:07Z</date>
 			<key>plainText</key>
@@ -902,7 +949,7 @@ exit</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>104</integer>
+			<integer>106</integer>
 			<key>uuidString</key>
 			<string>6CA97F05-92F7-4871-8DA6-AA7CE5644759</string>
 		</dict>
@@ -918,7 +965,7 @@ exit</string>
 			<key>label</key>
 			<string>name time insensitive files</string>
 			<key>lastUsed</key>
-			<date>2013-05-29T06:28:31Z</date>
+			<date>2013-06-09T22:30:47Z</date>
 			<key>modificationDate</key>
 			<date>2013-06-03T06:02:35Z</date>
 			<key>plainText</key>
@@ -926,9 +973,36 @@ exit</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>38</integer>
+			<integer>39</integer>
 			<key>uuidString</key>
 			<string>13299072-A800-42D6-91A4-903F4CD05CE3</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>.paper</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-06-09T16:45:31Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-06-09T19:17:55Z</date>
+			<key>modificationDate</key>
+			<date>2013-06-09T16:46:01Z</date>
+			<key>plainText</key>
+			<string># Abstract
+%|
+
+# Conclusion</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>10</integer>
+			<key>uuidString</key>
+			<string>3C5DA85A-7D2E-4358-882A-3E0DD5C22A1C</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -942,7 +1016,7 @@ exit</string>
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2013-06-02T21:23:55Z</date>
+			<date>2013-06-04T03:04:54Z</date>
 			<key>modificationDate</key>
 			<date>2013-05-05T22:39:52Z</date>
 			<key>plainText</key>
@@ -950,7 +1024,7 @@ exit</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>12</integer>
+			<integer>14</integer>
 			<key>uuidString</key>
 			<string>8DBFA981-D60D-46F2-AF5E-9C1F90D73091</string>
 		</dict>
@@ -999,7 +1073,7 @@ exit</string>
 			<key>label</key>
 			<string>Default signature</string>
 			<key>lastUsed</key>
-			<date>2013-05-29T01:33:11Z</date>
+			<date>2013-06-13T17:26:19Z</date>
 			<key>modificationDate</key>
 			<date>2013-04-06T21:58:12Z</date>
 			<key>plainText</key>
@@ -1008,7 +1082,7 @@ Paul</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>16</integer>
+			<integer>24</integer>
 			<key>uuidString</key>
 			<string>F7124F93-0B72-4696-8A2E-E44DB879B49F</string>
 		</dict>
@@ -1024,7 +1098,7 @@ Paul</string>
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2013-06-03T01:33:27Z</date>
+			<date>2013-06-11T02:41:25Z</date>
 			<key>modificationDate</key>
 			<date>2013-02-04T19:21:05Z</date>
 			<key>plainText</key>
@@ -1032,7 +1106,7 @@ Paul</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>130</integer>
+			<integer>151</integer>
 			<key>uuidString</key>
 			<string>AE82F37D-D946-4F2C-A9D2-A1F7A953B937</string>
 		</dict>
@@ -1226,7 +1300,7 @@ United States</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>9</integer>
+			<integer>12</integer>
 			<key>uuidString</key>
 			<string>AA3E4E9D-E227-4D8D-9295-52734116A488</string>
 		</dict>
@@ -1242,7 +1316,7 @@ United States</string>
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2013-05-07T22:13:51Z</date>
+			<date>2013-06-06T19:58:13Z</date>
 			<key>modificationDate</key>
 			<date>2013-04-09T03:34:16Z</date>
 			<key>plainText</key>
@@ -1250,7 +1324,7 @@ United States</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>13</integer>
+			<integer>15</integer>
 			<key>uuidString</key>
 			<string>EE75D298-C472-4625-AC98-8EB5C2B85E63</string>
 		</dict>
@@ -1434,7 +1508,7 @@ United States</string>
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2013-05-02T22:09:17Z</date>
+			<date>2013-06-03T21:55:42Z</date>
 			<key>modificationDate</key>
 			<date>2013-04-18T02:19:12Z</date>
 			<key>plainText</key>
@@ -1442,7 +1516,7 @@ United States</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>3</integer>
+			<integer>6</integer>
 			<key>uuidString</key>
 			<string>2975C13C-5C06-489B-B3A1-6704D38FCF7A</string>
 		</dict>
@@ -1482,7 +1556,7 @@ United States</string>
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2013-04-27T08:15:44Z</date>
+			<date>2013-06-03T21:41:06Z</date>
 			<key>modificationDate</key>
 			<date>2013-04-18T02:19:31Z</date>
 			<key>plainText</key>
@@ -1490,7 +1564,7 @@ United States</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>1</integer>
+			<integer>3</integer>
 			<key>uuidString</key>
 			<string>42500307-D7C4-4542-BE69-E488DF49E9F0</string>
 		</dict>
@@ -2761,7 +2835,7 @@ Rating: %fillpopup:name=Book Rating:★☆☆☆☆:★★☆☆☆:default=★�
 			<key>label</key>
 			<string>data stamp - word</string>
 			<key>lastUsed</key>
-			<date>2013-04-07T18:07:04Z</date>
+			<date>2013-06-07T01:10:49Z</date>
 			<key>modificationDate</key>
 			<date>2013-04-06T23:30:33Z</date>
 			<key>plainText</key>
@@ -2769,7 +2843,7 @@ Rating: %fillpopup:name=Book Rating:★☆☆☆☆:★★☆☆☆:default=★�
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>9</integer>
+			<integer>10</integer>
 			<key>uuidString</key>
 			<string>CE101F5A-C5CC-43C0-B75D-81F13AC134B1</string>
 		</dict>
@@ -2785,7 +2859,7 @@ Rating: %fillpopup:name=Book Rating:★☆☆☆☆:★★☆☆☆:default=★�
 			<key>label</key>
 			<string>date stamp - day</string>
 			<key>lastUsed</key>
-			<date>2013-06-03T01:35:46Z</date>
+			<date>2013-06-14T06:14:52Z</date>
 			<key>modificationDate</key>
 			<date>2013-04-06T23:30:53Z</date>
 			<key>plainText</key>
@@ -2793,7 +2867,7 @@ Rating: %fillpopup:name=Book Rating:★☆☆☆☆:★★☆☆☆:default=★�
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>156</integer>
+			<integer>164</integer>
 			<key>uuidString</key>
 			<string>12944DFF-31EB-4B62-818E-8C95AA329BAF</string>
 		</dict>
@@ -3520,7 +3594,7 @@ set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (m
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2013-04-15T22:01:59Z</date>
+			<date>2013-06-05T03:42:47Z</date>
 			<key>modificationDate</key>
 			<date>2013-04-06T23:23:22Z</date>
 			<key>plainText</key>
@@ -3528,7 +3602,7 @@ set theDate to year of theDate &amp; "-" &amp; (text -2 thru -1 of ("0" &amp; (m
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>2</integer>
+			<integer>4</integer>
 			<key>uuidString</key>
 			<string>91503D33-0C25-40DA-BF3C-6F5318FAA956</string>
 		</dict>
